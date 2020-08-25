@@ -2,7 +2,7 @@
 
 Welcome to the React Fall 2020 Class! We hope you are as excited as we are to get this semester going! 
 
-## What is Githib Classroom and why is it useful
+## What is Github Classroom and why is it useful
 Github Classroom is a awesome way to organize assignments and homework for our class. When we have an assignment, we can invite you to the assignment and you can simply accept it with the click of a button! And when you are then working on the assignment we can see how your progress is going and support you right here on Github! Exciting!
 
 ## Today's assignment
